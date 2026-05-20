@@ -134,6 +134,4 @@ Il montre que de simples modifications dans les instructions peuvent améliorer 
 
 ---
 
-## Auteur
 
-**Khalid Naitali**
